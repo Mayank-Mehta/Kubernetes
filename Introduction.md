@@ -29,7 +29,7 @@ Container is running instance of image.
 * docker daemon needs to run in linux or VM.
 * In order to use minikube started docker daemon we can use:  *minikube docker-env* and execute the export commands.
 
-###Images
+### Images
 * to find docker images: https://hub.docker.com/
 * to pull an image: docker pull {imagename}:{release number}
 * to run an image: docker container run -p 80:80 -d {imagename}:{release number}  -> if image doesn't exist it will pull as well
