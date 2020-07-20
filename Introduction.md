@@ -14,7 +14,7 @@
 * minikube-> cut down version of kubernetes for development.
 * cygwin to open unix style command prompt on windows
 
-###Running
+### Running
 * *minikube start*: this will run minikube in Virtual Machine. This also runs docker daemon
 * *kubectl version*: This will give client verison and server version.
 * *minikube ip*: to find ip address of minikube VM.
