@@ -42,6 +42,6 @@ Container is running instance of image.
 * docker container rm {four characters of id} 
 
 
-
+<img src="https://github.com/Mayank-Mehta/Kubernetes/blob/master/DockerDaemon.jpeg"/>
 
 
